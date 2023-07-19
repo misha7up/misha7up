@@ -7,7 +7,7 @@
 
 Graduated from OSTU with a <b>bachelor's degree of Applied Computer Science</b>.
 
-Experienced in commercial development: during my studies, I've programmed <b>a project on parsing social networks for MGD</b>, took part in programming competitions, solved problems on Codewars, LeetCode and Codeforces platforms.
+During my studies, I've programmed <b>a project on parsing social networks for MGD</b>, took part in programming competitions, solved problems on Codewars, LeetCode and Codeforces platforms.
 
 Made some <b>PET-projects for self-usage</b>, i.e. parsers and automators via Python, Delphi and various clickers (e.g. Clickermann with its own language); <b>developed chatbots</b> that are interacting with APIs of websites, social networks and messengers; <b>developed game bots</b> based on image analysis using OpenCV.
 
@@ -15,7 +15,7 @@ ATM <b>refreshing my knowledge on Backend-development</b>, taking a course at Ya
 
 Fast learner, good at googling, easy to fit into workflows. Not afraid of complex tasks and routine, willing to dig in/deal with it.
 
-<b>Will consider any offers!</b> :smirk:
+<b>Searching for Junior Python Developer position, will consider any offers!</b> :smirk:
 
 <p align="center">
  <img width="600" src="images/github-snake.svg" alt="snake"/>
