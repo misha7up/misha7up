@@ -1,5 +1,4 @@
 <h1 align="center">Hi there! My name is <a href="https://t.me/misha7up" target="_blank">Mikhail</a> <img src="images/Hi.gif" height="32"/></h1>
-<h3 align="center">I am Junior Python Developer from Russia</h3>
 
 ---
 
@@ -14,8 +13,6 @@ Made some <b>PET-projects for self-usage</b>, i.e. parsers and automators via Py
 ATM <b>refreshing my knowledge on Backend-development</b>, taking a course at Yandex.Praktikum. I have actual experience with Python, Django, SQL, Git, different APIs and Python parsing libraries, such as Scrapy/Selenium/Beautiful Soup.
 
 Fast learner, good at googling, easy to fit into workflows. Not afraid of complex tasks and routine, willing to dig in/deal with it.
-
-<b>Searching for Junior Python Developer position, will consider any offers!</b> :smirk:
 
 <p align="center">
  <img width="600" src="images/github-snake.svg" alt="snake"/>
