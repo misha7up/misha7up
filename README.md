@@ -4,15 +4,12 @@
 
 ### :man_technologist: About me:
 
-Graduated from OSTU with a <b>bachelor's degree of Applied Computer Science</b>.
+Head of PMO and Delivery Manager.
 
-During my studies, I've programmed <b>a project on parsing social networks for MGD</b>, took part in programming competitions, solved problems on Codewars, LeetCode and Codeforces platforms.
+Run a portfolio of 5 products and 30+ engineers, from discovery to release.
 
-Made some <b>PET-projects for self-usage</b>, i.e. parsers and automators via Python, Delphi and various clickers (e.g. Clickermann with its own language); <b>developed chatbots</b> that are interacting with APIs of websites, social networks and messengers; <b>developed game bots</b> based on image analysis using OpenCV.
-
-ATM <b>refreshing my knowledge on Backend-development</b>, taking a course at Yandex.Praktikum. I have actual experience with Python, Django, SQL, Git, different APIs and Python parsing libraries, such as Scrapy/Selenium/Beautiful Soup.
-
-Fast learner, good at googling, easy to fit into workflows. Not afraid of complex tasks and routine, willing to dig in/deal with it.
+Align OKRs with business goals, track DORA & flow metrics, keep budgets and timelines on target.
+Python backend background lets me assess tech risks and write clear specs fast.
 
 <p align="center">
  <img width="600" src="images/github-snake.svg" alt="snake"/>
