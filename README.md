@@ -11,9 +11,7 @@ Run a portfolio of 5 products and 30+ engineers, from discovery to release.
 Align OKRs with business goals, track DORA & flow metrics, keep budgets and timelines on target.
 Python backend background lets me assess tech risks and write clear specs fast.
 
-<p align="center">
- <img width="600" src="images/github-snake.svg" alt="snake"/>
-</p>
+---
 
 ### 💻 Current Tech Stack:
 
