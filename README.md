@@ -15,8 +15,6 @@ Python backend background lets me assess tech risks and write clear specs fast.
  <img width="600" src="images/github-snake.svg" alt="snake"/>
 </p>
 
----
-
 ### 💻 Current Tech Stack:
 
 
@@ -25,8 +23,6 @@ Python backend background lets me assess tech risks and write clear specs fast.
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="python" alt="python" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" title="django" alt="django" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="mysql" alt="mysql" width="40" height="40"/>&nbsp
-  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="linux" alt="linux" width="40" height="40"/>&nbsp
-  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="docker" alt="docker" width="40" height="40"/>&nbsp
 </div>
 
 ---
